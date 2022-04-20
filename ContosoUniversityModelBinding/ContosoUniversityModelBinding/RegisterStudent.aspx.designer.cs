@@ -40,6 +40,15 @@ namespace ContosoUniversityModelBinding {
         protected global::System.Web.UI.WebControls.TextBox TextFirstname;
 
         /// <summary>
+        /// TextEmailaddress control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextEmailaddress;
+
+        /// <summary>
         /// Label1 control.
         /// </summary>
         /// <remarks>
@@ -49,13 +58,22 @@ namespace ContosoUniversityModelBinding {
         protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
-        /// TextEnrollmentDate control.
+        /// CalendarEnrollmentDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextEnrollmentDate;
+        protected global::System.Web.UI.WebControls.Calendar CalendarEnrollmentDate;
+
+        /// <summary>
+        /// DropDownList1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
 
         /// <summary>
         /// ButtonRegister control.
